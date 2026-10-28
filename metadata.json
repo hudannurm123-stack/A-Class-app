@@ -1,0 +1,6 @@
+{
+  "name": "A Class - Academic & Group Workspace",
+  "description": "Platform terpadu untuk mengelola informasi akademik, pengumuman kelas terpusat, dan koordinasi tugas kelompok agile mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
